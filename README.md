@@ -77,14 +77,6 @@ This dashboard helps users:
 - Compare categories and segments
 - Improve decision-making using data
 
-## Screenshots
-
-### Dashboard Overview
-images/dashboard-overview.png
-
-### Interactive Filtering
-images/dashboard-filters.png
-
 ## File Structure
 
 ```
