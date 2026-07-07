@@ -122,5 +122,5 @@ During this project, I strengthened my ability to transform raw datasets into me
 
 Kaitlin Dobay
 
-LinkedIn: [Your LinkedIn Profile  ](https://www.linkedin.com/in/kaitlindobay/)
-GitHub: [Your GitHub Profile](https://github.com/katiedobay)
+[LinkedIn  ](https://www.linkedin.com/in/kaitlindobay/)
+ [GitHub ](https://github.com/katiedobay)
