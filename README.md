@@ -77,12 +77,6 @@ This dashboard helps users:
 - Compare categories and segments
 - Improve decision-making using data
 
-## Project Demo
-
-📹 YouTube Demonstration:
-
-https://www.youtube.com/watch?v=opJgMj1IUrc
-
 ## Screenshots
 
 ### Dashboard Overview
